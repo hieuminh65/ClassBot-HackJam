@@ -1,50 +1,83 @@
 [
     {
-        "content": "The deliverables for Assignment 1 are:A written Feasibility Study and Plan (group assignment)Survey 1 (individual assignment)Feasibility ReportThe exact form of the feasibility study is up to you. The length of the report is likely to be between five and ten pages. It should include the following:The client for whom the work will be done.List of team members and email addresses.A statement of the task to be undertaken. A preliminary requirements analysis.Suggested deliverables.Process to be followed, e.g., modified waterfall model, iterative refinement, incremental development, phased development, etc.Outline plan, showing principal activities and milestones.Visibility plan.  How will you keep in contact with the client and report progress?  How will you communicate among your team?Discussion of business considerations (see the Projects pages on the Web site). Risk analysis. What can go wrong? What is your fallback plan?Probable technical requirements",
+        "content": "Record a 1-2 minute video introducing yourself to your peers, and upload it by August 25th at 8:00 p.m. Use the recording option in this thread. State your name, where you are from, where you are, and what major you are interested in. Then share two true pieces of information about yourself and one lie. Your peers will guess which pieces of info are true and which one is the lie.",
         "metadata": {
-            "course": "CEN 4020",
-            "title": "Assignment 1",
-            "description": "Assignment 1 for CEN class, a written Feasibility Study and Plan (group assignment) and Survey 1 (individual assignment)"
+            "course": "ENC 1101",
+            "title": "Week 1 - Introduction Post",
+            "description": "First week introduction post on presenting yourself to classmates."
         }
     },
     {
-        "content": "Welcome to CEN 4020 - Software Engineering. This course aims to provide a comprehensive understanding of software development processes, methodologies, and tools. The syllabus includes course objectives, weekly breakdown of topics, assessment methods, grading policy, office hours, and contact information for the instructor. Students are expected to actively participate in class discussions, complete all assignments on time, and engage with the course materials to ensure a successful learning experience.",
+        "content": "After you complete this reading on strategies to approach an assignment, identify five main ideas that you think are the most important and useful takeaways for you. For each of the five, write one sentence explaining the point and why you think it is important and useful for you and your process. Be sure to use complete sentences and reference the point directly from the reading. Upload your five sentences to Assignment 1.1 in Canvas.",
         "metadata": {
-            "course": "CEN 4020",
-            "title": "Syllabus",
-            "description": "Complete guide and syllabus for the CEN 4020 course, outlining the course structure, topics covered, grading scheme, and important dates."
+            "course" : "ENC 1101",
+            "title" : "Week 1 - Approaching an Assignment Assignment",
+            "description": "First week assignment."
         }
     },
     {
-        "content": "Choose three design patterns from the course materials and provide a detailed analysis of each, including their usage scenarios, advantages, and disadvantages. For one of the chosen patterns, create a small code example demonstrating its application. Your submission should be clear, well-written, and not exceed 6 pages.",
+        "content": "After reading this overview of the genre, watch What is a Literacy NarrativeLinks to an external site. and The Power of Literacy NarrativesLinks to an external site., and explore the DALN.Links to an external site. Then develop complete sentences to answer the following questions. Because these questions require you to think critically and conceptually, be sure to give yourself time to develop strong and complete responses. Submit your considered and polished responses to Assignment 2.1 in Canvas: How are the concepts of literacy and the expectations of a literacy narrative as explained in the assignment similar to and different from Selfe’s expectations of each? Link two narratives you explored in the DALN and discuss what each did well.Identify and list four literacy memories: two formal (related to reading and writing in a formal, educational setting) and two informal (related to reading or writing for personal purposes). How do they overlap and how are they different?",
         "metadata": {
-            "course": "CEN 4020",
-            "title": "Assignment 2 - Design Patterns",
-            "description": "Second assignment focusing on the application of software design patterns."
+            "course": "ENC 1101",
+            "title": "Week 2 - Literacy Narrative Assignemnt",
+            "description": "Second week assignemnt."
         }
     },
     {
-        "content": "Discuss various software testing methodologies and quality assurance practices. Provide examples of how these methodologies and practices can be applied in software development to ensure a high-quality product. Highlight any challenges and potential solutions. The report should be comprehensive, well-referenced, and between 8-10 pages.",
+        "content": "Complete all three parts included in Assignment 3.2, and upload your considered and polished responses to Canvas. In 3.1, you read and summarized the short piece about the creatures (Question 3). Now write a one-paragraph response to that same piece. You also summarized a piece of fiction that had an impact on you (Question 4). Now write a one-paragraph response to the fiction text and context you summarized. Finally, write a one-paragraph explanation of the difference between summary and response. ",
         "metadata": {
-            "course": "CEN 4020",
-            "title": "Assignment 3 - Testing and Quality Assurance",
-            "description": "Third assignment focusing on software testing methodologies and quality assurance practices."
+            "course": "ENC 1101",
+            "title": "Week 3 - Responding to Fiction Assgignment",
+            "description": "Third week assignment."
         }
     },
     {
-        "content": "In groups of 4-5, choose a software project that you will develop as your final project. Submit a proposal outlining the problem statement, objectives, scope, potential challenges, and a preliminary list of tasks and responsibilities. The proposal should be detailed, well-organized, and not exceed 5 pages.",
+        "content": "For this assignment, you will embark on a journey of critical analysis and persuasive writing. Select a topic of personal interest, a societal issue, or a subject related to the course materials. Your task is to craft a compelling and well-researched persuasive essay that not only presents a clear argument but also engages the reader with your unique perspective. Your essay should be substantial, with a minimum length of 1,000 words, allowing you to delve deep into your chosen topic and provide comprehensive evidence, examples, and well-structured arguments. Make sure to incorporate relevant research, cite your sources appropriately, and adhere to the specified formatting and style guidelines. This assignment serves as a significant milestone in honing your persuasive writing skills, and it should be submitted on Canvas by the deadline provided in the course schedule.",
         "metadata": {
-            "course": "CEN 4020",
-            "title": "Assignment 4 - Group Project Proposal",
-            "description": "Fourth assignment requiring groups to submit a proposal for their final project."
+            "course": "ENC 1101",
+            "title": "Persuasive Essay Assignment",
+            "description": "A substantial assignment for developing persuasive writing skills."
         }
     },
     {
-        "content": "Select an open-source software project, and conduct a code review of a particular module or component. Discuss the quality of the code, any potential improvements, and maintenance strategies. Provide specific examples and recommendations. Your report should be clear, concise, and between 7-9 pages.",
+        "content": "In this project, you will explore the art of storytelling through a multimedia approach. Your task is to create a captivating digital narrative that combines text, images, audio, and video to convey a compelling story. Choose a subject that inspires you, whether it's a personal experience, a work of fiction, or a topic related to our course themes. Your narrative should be rich in creativity and expression. You'll be expected to weave together different media elements, blending text, images, sound, and video seamlessly. This assignment allows you to delve into the world of digital storytelling, honing your skills in content creation and multimedia communication. Your completed project should be shared on Canvas by the due date specified in the course schedule.",
         "metadata": {
-            "course": "CEN 4020",
-            "title": "Assignment 5 - Code Review and Maintenance",
-            "description": "Fifth assignment focusing on the practices of code review and software maintenance."
+            "course": "ENC 1101",
+            "title": "Multimedia Storytelling Project",
+            "description": "A creative project focusing on digital storytelling."
+        }
+    },
+    {
+        "content": "The research paper project is a substantial undertaking, designed to enhance your research and writing skills. For this assignment, you will choose a thought-provoking topic that is relevant to our course. Your research should explore multiple perspectives, incorporate a variety of credible sources, and provide a well-rounded understanding of the chosen subject. The paper should be a minimum of 2,500 words in length and should adhere to the appropriate citation and formatting style. Be sure to include an engaging introduction, a clear thesis statement, a comprehensive literature review, critical analysis, and a compelling conclusion. This assignment is a significant step in developing your research and academic writing abilities. You are expected to submit your research paper to Canvas by the due date outlined in the course syllabus.",
+        "metadata": {
+            "course": "ENC 1101",
+            "title": "Research Paper Project",
+            "description": "A substantial research project focusing on academic writing and critical analysis."
+        }
+    },
+    {
+        "content": "The Debate and Presentation Project is a comprehensive exploration of persuasive communication. You will select a current, relevant issue, and prepare a structured argument for or against it. Your task is to research the topic thoroughly, gathering evidence, data, and expert opinions to support your stance. You will then present your argument through a formal debate format. The project also includes a written analysis of your argument, discussing your strategies for persuasion, sources, and any potential counterarguments. In addition to the debate, you'll prepare a persuasive presentation, condensing the key points of your argument into a compelling visual and verbal format. This assignment will help you develop critical thinking, research, and persuasive communication skills, and it should be submitted to Canvas on the scheduled date in the course calendar.",
+        "metadata": {
+            "course": "ENC 1101",
+            "title": "Debate and Presentation Project",
+            "description": "A project focused on persuasive communication and public speaking."
+        }
+    },
+    {
+        "content": "The Portfolio Project is the culmination of your semester's work and an opportunity to showcase your growth and achievements. You will compile a portfolio that demonstrates your progress in the course, showcasing your best written pieces, critical analyses, and persuasive essays. Your portfolio should also include reflections on your writing journey, highlighting how you've developed as a writer and thinker. Additionally, you'll select a theme or topic that connects your portfolio pieces and write a unifying introduction that explains the theme's significance. This assignment encourages self-assessment, reflection, and the application of the knowledge and skills you've gained throughout the course. Your completed portfolio should be thoughtfully organized, professionally presented, and submitted to Canvas by the designated deadline.",
+        "metadata": {
+            "course": "ENC 1101",
+            "title": "Portfolio Project",
+            "description": "A reflective project showcasing personal growth and writing achievements."
+        }
+    },
+    {
+        "content": "This presentation covers the introduction to Business Data Communications. And in this chapter, we're going to cover things like why computer networks are important, why data is sent on computer networks as packets of information, the important tasks that must be performed to deliver each packet of information to its destination without error, and the standard technologies that accomplish these tasks, such as the TCP/IP stack. Now, business data communications can be defined as the movement of information from one computer application on one computer to another computer by means of an electrical or optical transmission system. Transmission systems are called networks. So in this course, we would use this synonymously with defining computer networking. Here's an illustration of a typical home network that is trying to communicate with a host or resource on a university network. So if you were sitting at home with your laptop or PC, opened up a browser, and were trying to get to a web page on the USF web server, first, you would type in the URL of the web server resource you were trying to get to. The request would then go through the home router, which would then go through the internet service provider network, and route the request to the University of South Florida's network. Once inside the campus network, then it would be routed to locate the web server host resource that you were trying to get to through the browser. Once the resource responds, the acknowledgment will go back through the network, to your home network through the home router, back to the and, the application will respond with the content requested from the web server. There are a common set of technologies that support all network computer applications on a PC. So for instance, on your own laptop, you probably have things like an email client, like Microsoft Outlook or web-based email clients. You use instant messaging clients. You browse the internet with browsers, such as Internet Explorer, Firefox or Chrome. If you're in a business, there's often client server applications, where you have a client application on your laptop or PC that communicates with an enterprise system. So these basic principles of being able to use technology in a network environment have basically remained unchanged for many decades and they will continue to persist within the future to support the modern economy. If you look back in history, as far back as the 1800s, you'll find inventions which have eventually evolved in today's modern packet-switching networks. We will have a quiz on next class about the lecture today.",
+        "metadata": {
+            "course": "ENC 1101",
+            "title": "Group Presentation and Peer Evaluation Project",
+            "description": "A collaborative project focusing on group presentations and peer feedback."
         }
     }
+    
 ]
